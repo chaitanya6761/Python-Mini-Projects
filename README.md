@@ -14,6 +14,9 @@
 	![Memory-2.PNG](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/screenshots/Memory-1.PNG)
 	
 
+2.Blackjack Game :
+	
+
 
 	
 	
