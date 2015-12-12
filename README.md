@@ -6,7 +6,7 @@
 
 	Initial Phase :
 	
-	![GitHub Logo](/screenshots/Memory-1.png)
+	![Alt image](/screenshots/Memory-1.PNG)
 	
 	
 	
