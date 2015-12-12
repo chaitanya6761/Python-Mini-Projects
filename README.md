@@ -6,12 +6,17 @@
 
 	Initial Phase :
 	
+	![Alt image](/screenshots/Memory-1.PNG)
+	
 	
 	
  
 
 
 	Final Phase :
+	
+	![Alt image](/screenshots/Memory-2.PNG)
+	
 	
 	
 
