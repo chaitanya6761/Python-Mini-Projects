@@ -18,6 +18,12 @@ Initial Phase:
 Final Phase:
 ![Memory-2.PNG](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/screenshots/Memory-2.PNG)
 
+## 3. Pong game
+the classic arcade paddle ball game. My version is for 2 players. Up and Down arrow keys control the right paddle and the W and S keys control the left paddle. 
 
+Code: [code](http://www.codeskulptor.org/#user40_5cMzCDW4aFbcbqs_6.py). 
+
+Screenshot of the Pong Game in action:
+![pong.png](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/screenshots/Pong.PNG)
 
 
