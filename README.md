@@ -6,7 +6,7 @@
 
 	Initial Phase :
 	
-	![alt tag](http://www.unixstickers.com/image/cache/data/stickers/python/python.sh-600x600.png "Description goes here")
+	![alt tag](Memory-1.PNG "Description goes here")
 	
  
 
