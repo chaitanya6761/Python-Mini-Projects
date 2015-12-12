@@ -6,6 +6,8 @@
 
 	Initial Phase :
 	
+	![alt text](Memory-1.png)
+	
  
 
 
