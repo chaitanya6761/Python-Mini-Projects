@@ -6,14 +6,14 @@
 
 	Initial Phase :
 	
-	![alt tag](Memory-1.PNG )
+	![Image-1](Memory-1.PNG )
 	
  
 
 
 	Final Phase :
 	
-	![alt tag](Memory-1.PNG)
+	![Image-2](Memory-2.PNG)
 
  
 
