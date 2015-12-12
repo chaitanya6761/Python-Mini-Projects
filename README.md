@@ -6,7 +6,7 @@
 
 	Initial Phase :
 	
-	![Alt image](/screenshots/Memory-1.PNG)
+	![Memory-1.PNG](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/screenshots/Memory-1.PNG)
 	
 	
 	
