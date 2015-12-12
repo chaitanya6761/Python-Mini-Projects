@@ -6,12 +6,14 @@
 
 	Initial Phase :
 	
-	![alt tag](Memory-1.PNG "Description goes here")
+	![alt tag](Memory-1.PNG )
 	
  
 
 
 	Final Phase :
+	
+	![alt tag](Memory-1.PNG)
 
  
 
