@@ -42,4 +42,3 @@ Code: [code](https://github.com/chaitanya6761/Python-Mini-Projects/tree/master/R
 Screenshot of the Robot in action:
 ![Robot.PNG](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/screenshots/Robot.PNG)
 
-
