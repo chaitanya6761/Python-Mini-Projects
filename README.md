@@ -34,3 +34,12 @@ Code: [code](http://www.codeskulptor.org/#user40_mrp098MiTF_4.py).
 Screenshot of the Stopwatch Game in action:
 ![Stopwatch.PNG](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/screenshots/Stopwatch.PNG)
 
+## Room Cleaning Robot :
+iRobot is a company (started by MIT alumni and faculty) that sells the Roomba vacuuming robot (watch one of the product videos to see these robots in action). Roomba robots move around the floor, cleaning the area they pass over. In this Mini-Project  i coded small  simulation to show how a Roomba-like robot will clean the floor of a room using two different strategies.
+
+Code: [code](https://github.com/chaitanya6761/Python-Mini-Projects/tree/master/RoomCleaningRobot).
+
+Screenshot of the Robot in action:
+![Robot.PNG](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/screenshots/Robot.PNG)
+
+
