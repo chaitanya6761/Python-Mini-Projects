@@ -26,4 +26,10 @@ Code: [code](http://www.codeskulptor.org/#user40_5cMzCDW4aFbcbqs_6.py).
 Screenshot of the Pong Game in action:
 ![pong.png](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/screenshots/Pong.PNG)
 
+## Stopwatch Game :
+This stopwatch Game is  a test of reflexes.It keeps track of the number of times that you have stopped the watch and how many times you manage to stop the watch on a whole second (1.0, 2.0, 3.0, etc.)
+
+Code: [code](http://www.codeskulptor.org/#user40_mrp098MiTF_4.py).
+
+Screenshot of the Stopwatch Game in action:
 
