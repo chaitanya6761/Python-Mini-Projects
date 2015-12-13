@@ -32,4 +32,5 @@ This stopwatch Game is  a test of reflexes.It keeps track of the number of times
 Code: [code](http://www.codeskulptor.org/#user40_mrp098MiTF_4.py).
 
 Screenshot of the Stopwatch Game in action:
+![Stopwatch.PNG](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/screenshots/Stopwatch.PNG)
 
