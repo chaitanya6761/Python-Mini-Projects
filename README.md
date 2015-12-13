@@ -39,6 +39,5 @@ iRobot is a company (started by MIT alumni and faculty) that sells the Roomba va
 
 Code: [code](https://github.com/chaitanya6761/Python-Mini-Projects/tree/master/RoomCleaningRobot).
 
-Screenshot of the Robot in action:
-![Robot.PNG](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/screenshots/Robot.PNG)
+![Robot.PNG](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/screenshots/Robot.PNG).
 
