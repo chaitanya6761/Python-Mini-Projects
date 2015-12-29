@@ -3,8 +3,10 @@ Asteroids is an arcade space shooter released in November 1979 by Atari, Inc.The
 
 Code: [code](http://www.codeskulptor.org/#user40_u8JY81uxo8_6.py).
 
-Screenshot of the Game:
+Screenshot of the Game(Start Screen):
 ![RiceRocks](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/screenshots/Ricerocks-1.PNG)
+
+Screenshot of the Game(Middle Phase): 
 ![RiceRocks](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/screenshots/Ricerocks-2.png)
 
 ## BlackJack Game
