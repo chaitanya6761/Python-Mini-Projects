@@ -1,7 +1,7 @@
 ## Clone of 2048 Game:
 2048 is a simple grid-based numbers game. The object of the game is to combine tiles with the same number to make larger numbered tiles. You "win" when you create a 2048 tile.
 
-Code: [code](http://www.codeskulptor.org/#user40_u8JY81uxo8_7.py).
+Code: [code](http://www.codeskulptor.org/#user41_vQaQAQqJsq_12.py).
 
 Screenshot of the Game(Start Screen):
 ![2048](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/screenshots/2048-1.PNG)
