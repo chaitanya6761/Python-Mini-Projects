@@ -20,7 +20,7 @@ Screenshot of the Game(Start Screen):
 Screenshot of the Game(Middle Phase): 
 ![RiceRocks](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/screenshots/Ricerocks-2.png)
 
-## RiceRocks (Asteroids):
+## Tic-Tac-Toe (Monte Carlo):
 Tic-Tac-Toe is a simple game played on a 3×3 grid. Players alternate turns placing an "X" or an "O" on an empty grid square. The first player to get three-in-a-row wins. If you know the appropriate strategy and your opponent does not, you cannot lose the game. Further, if both players understand the appropriate strategy the game will always end in a tie. An interesting variant of the game is "reverse" Tic-Tac-Toe in which you lose if you get three-in-a-row. The game is also more interesting if you play on larger square grids.
 
 Code: [code](http://www.codeskulptor.org/#user41_kdyoHStp9g_5.py).
