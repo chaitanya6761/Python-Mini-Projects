@@ -4,10 +4,7 @@
 Code: [code](http://www.codeskulptor.org/#user41_vQaQAQqJsq_12.py).
 
 Screenshot of the Game(Start Screen):
-![2048](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/screenshots/2048-1.PNG)
-
-Screenshot of the Game(In Progress): 
-![2048](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/screenshots/2048-2.PNG)
+![2048](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/screenshots/2048.jpg)
 
 ## RiceRocks (Asteroids):
 Asteroids is an arcade space shooter released in November 1979 by Atari, Inc.The player controls a spaceship in an asteroid field. The object of the game is to shoot and destroy asteroids and not to collide with them. The game becomes harder as the number of asteroids increases.
