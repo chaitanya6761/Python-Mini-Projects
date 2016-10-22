@@ -65,6 +65,13 @@ Code: [code](https://github.com/chaitanya6761/Python-Mini-Projects/tree/master/R
 
 Screenshot of the robot in action :
 
-
 ![Robot.PNG](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/screenshots/Robot.PNG).
 
+##9. Word Game :
+This game is a lot like Scrabble or Words With Friends, if you've played those. Letters are dealt to players, who then construct one or more words out of their letters. Each valid word receives a score, based on the length of the word and the letters in that word.
+
+Code: [code](https://github.com/chaitanya6761/Python-Mini-Projects/tree/master/wordgame).
+
+Screenshot of the robot in action :
+
+![wordgame.PNG](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/wordgame/wordgame.jpg).
