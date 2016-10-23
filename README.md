@@ -67,7 +67,17 @@ Screenshot of the robot in action :
 
 ![Robot.PNG](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/screenshots/Robot.PNG).
 
-##9. Guess Number :
+##9. Word Game :
+This game is a lot like Scrabble or Words With Friends, if you've played those. Letters are dealt to players, who then construct one or more words out of their letters. Each valid word receives a score, based on the length of the word and the letters in that word.
+
+Code: [code](https://github.com/chaitanya6761/Python-Mini-Projects/tree/master/wordgame).
+
+Screenshot of the Word Game:
+
+![wordgame.PNG](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/wordgame/wordgame.jpg).
+
+
+##10. Guess Number :
 The program works as follows: you (the user) thinks of an integer between 0 (inclusive) and 100 (not inclusive). The computer makes guesses, and you give it input - is its guess too high or too low? Using bisection search, the computer will guess the user's secret number!
 
 Code: [code](https://github.com/chaitanya6761/Python-Mini-Projects/blob/master/GuessNumber.py).
@@ -76,11 +86,3 @@ Screenshot of the robot in action :
 
 ![guess.PNG](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/screenshots/GuessNumber.jpg).
 
-##10. Word Game :
-This game is a lot like Scrabble or Words With Friends, if you've played those. Letters are dealt to players, who then construct one or more words out of their letters. Each valid word receives a score, based on the length of the word and the letters in that word.
-
-Code: [code](https://github.com/chaitanya6761/Python-Mini-Projects/tree/master/wordgame).
-
-Screenshot of the Word Game:
-
-![wordgame.PNG](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/wordgame/wordgame.jpg).
