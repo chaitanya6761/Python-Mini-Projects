@@ -76,8 +76,17 @@ Screenshot of the Word Game:
 
 ![wordgame.PNG](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/wordgame/wordgame.jpg).
 
+##10.Hangman Game 
+In this game user is supposed to guess a word in a finite(eight) number of chances. If the user guess the word using eight or less chances then he wins, otherwise he will lose.
 
-##10. Guess Number :
+Code: [code](https://github.com/chaitanya6761/Python-Mini-Projects/blob/master/Hangman%20Game/ps3_hangman.py).
+
+Screenshot of the Word Game:
+
+![wordgame.PNG](https://raw.githubusercontent.com/chaitanya6761/Python-Mini-Projects/master/Hangman%20Game/hangman.JPG)
+
+
+##11. Guess Number :
 The program works as follows: you (the user) thinks of an integer between 0 (inclusive) and 100 (not inclusive). The computer makes guesses, and you give it input - is its guess too high or too low? Using bisection search, the computer will guess the user's secret number!
 
 Code: [code](https://github.com/chaitanya6761/Python-Mini-Projects/blob/master/GuessNumber.py).
